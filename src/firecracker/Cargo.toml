@@ -32,7 +32,7 @@ cargo_toml = "0.15.3"
 regex = { version = "1.9.1", default-features = false, features = ["std", "unicode-perl"] }
 
 # Dev-Dependencies for uffd examples
-serde = { version = "1.0.180", features = ["derive"] }
+serde = { version = "1.0.181", features = ["derive"] }
 userfaultfd = "0.6.0"
 
 [[example]]
